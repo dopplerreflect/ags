@@ -3,9 +3,9 @@ window {
   font-size: 24px;
   font-weight: bold;
   border-radius: 10px;
-  border: 1px solid rgba(0, 152, 255, 0.85);
-  background-color: rgba(8, 0, 16, 0.85);
   color: white;
+  border: 1px solid rgba(128, 0, 255, 0.75);
+  background-color: rgba(32, 0, 64, 0.75);
 }
 button {
   background: none;
